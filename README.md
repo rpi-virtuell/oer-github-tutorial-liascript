@@ -1,5 +1,6 @@
-# Tutorial: How to create OER using GitHub
+# Anleitung: So erstellst du OER mit GitHub
 
-View this tutorial on LiaScript under the following link:
+Sieh dir dieses Tutorial auf LiaScript unter folgendem Link an:
 
-[View on LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/tibhannover/oer-github-tutorial-liascript/main/tutorial.md#)
+
+[Anzeigen mit LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/rpi-virtuell/oer-github-tutorial-liascript/main/tutorial.md#)
