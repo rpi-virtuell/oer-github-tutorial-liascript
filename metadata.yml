@@ -1,19 +1,23 @@
+'@context': https://schema.org/
 creativeWorkStatus: Published
+type: LearningResource
 name: OER GitHub Tutorial - LiaScript
-description: Create your easily reusable OER quickly using LiaScript. Create a responsive site with automatic translation and interactive elements hosted on GitHub without a static site generator.
-license:
-  id: https://creativecommons.org/licenses/by/4.0/deed.de
+description: >-
+  Erstelle schnell und einfach wiederverwendbare OER mit LiaScript. Erstelle
+  eine responsive Website mit automatischer Übersetzung und interaktiven
+  Elementen, die auf GitHub gehostet wird, ohne einen statischen Site-Generator
+  zu verwenden.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: >-
-  https://liascript.github.io/course/?https://raw.githubusercontent.com/TIBHannover/oer-github-tutorial-liascript/main/tutorial.md#1
+  https://liascript.github.io/course/?https://raw.githubusercontent.com/rpi-virtuell/oer-github-tutorial-liascript/main/tutorial.md#1
 creator:
-  - givenName: Sophie
-    familyName: Matter
+  - givenName: Jörg
+    familyName: Lohrer
+    id: https://orcid.org/0000-0002-9282-0406
     type: Person
     affiliation:
-      name: >-
-        Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum
-        Technik und Naturwissenschaften - Universitätsbibliothek
-      id: https://ror.org/04aj4c181
+      name: Comenius-Institut
+      id: https://ror.org/025e8aw85
       type: Organization
 keywords:
   - OER
@@ -22,11 +26,18 @@ keywords:
   - Tutorial
   - LiaScript
 inLanguage:
-  - en
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n079
+  - https://w3id.org/kim/hochschulfaechersystematik/n121
+  - https://w3id.org/kim/hochschulfaechersystematik/n222
+  - https://w3id.org/kim/hochschulfaechersystematik/n321
+  - https://w3id.org/kim/hochschulfaechersystematik/n71
 image: >-
-  https://raw.githubusercontent.com/TIBHannover/oer-github-tutorial-liascript/main/img/preview.png
+  https://raw.githubusercontent.com/rpi-virtuell/oer-github-tutorial-liascript/main/img/preview.png
 learningResourceType:
   - https://w3id.org/kim/hcrt/course
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
-datePublished: '2024-04-18'
+  - https://w3id.org/kim/educationalLevel/level_C
+datePublished: '2024-08-13'
